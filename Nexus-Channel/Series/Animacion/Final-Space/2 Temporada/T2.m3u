@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsSPWrG/finalspace.jpg",Final Space - T2E01 - Episodio 1
+https://video.example.com/finalspace/t2/ep1.mp4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FsSPWrG/finalspace.jpg",Final Space - T2E02 - Episodio 2
+https://video.example.com/finalspace/t2/ep2.mp4
