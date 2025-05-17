@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Posters/peliculas.jpg",Películas
+https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Peliculas/Peliculas.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Posters/series.jpg",Series
+https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Series/Series.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Posters/animes.jpg",Animes
+https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Animes/Animes.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Posters/coleccion.jpg",Colección
+https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Coleccion/Coleccion.m3u
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/Posters/wwe.jpg",WWE Network
+https://raw.githubusercontent.com/tomas2007000/nexus-channel/main/Nexus-Channel/WWE%20Network/WWE.m3u
