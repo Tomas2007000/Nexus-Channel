@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Acción
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Accion/Accion.m3u
+#EXTINF:-1,Animación
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Animacion/Animacion.m3u
+#EXTINF:-1,Aventura
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Aventura/Aventura.m3u
+#EXTINF:-1,Ciencia Ficción
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Ciencia%20Ficcion/Ciencia%20Ficcion.m3u
+#EXTINF:-1,Comedia
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Comedia/Comedia.m3u
+#EXTINF:-1,Drama
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Drama/Drama.m3u
+#EXTINF:-1,Documental
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Documental/Documental.m3u
+#EXTINF:-1,Fantasía
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Fantasia/Fantasia.m3u
+#EXTINF:-1,Terror
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Terror/Terror.m3u
+#EXTINF:-1,Thriller
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/Series/Thriller/Thriller.m3u
