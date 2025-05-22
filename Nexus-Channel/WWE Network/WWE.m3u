@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1,RAW
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/WWE%20Network/RAW/RAW.m3u
+
+#EXTINF:-1,SmackDown
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/WWE%20Network/SmackDown/SmackDown.m3u
+
+#EXTINF:-1,NXT
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/WWE%20Network/NXT/NXT.m3u
+
+#EXTINF:-1,Eventos
+https://tomas2007000.github.io/Nexus-Channel/Nexus-Channel/WWE%20Network/Eventos/Eventos.m3u
