@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qFTsoeMg1gGL5OTG0jecBAqlrlM.jpg",Atlas
+https://pixeldrain.com/api/file/UyZ88JTZ?download
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nCuSMDWhWGJAPdp9rSDIogG5X82.jpg",Estado Eléctrico
 https://pixeldrain.com/api/file/mJqsyeGb?download
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4rOMi0FAfFwLfS1qsoklDAejI70.jpg",Gravedad Cero
