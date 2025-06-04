@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",Cazatesoros
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhlncZZ6orfluFQvXUMVINgzAjy.jpg",Cazatesoros
 https://pixeldrain.com/api/file/kt8DmWcs?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3IjQPJnEQ3CVJa8233I6MMGWGVP.jpg",El Tesoro de Cascadia
 https://pixeldrain.com/api/file/FMR5JahS?download
@@ -7,3 +7,4 @@ https://pixeldrain.com/api/file/FMR5JahS?download
 https://pixeldrain.com/api/file/Wsi6vNc9?download
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fSXfiHmKHvWleDwsuuYeLfg8qga.jpg",Mi Amigo el Pingüino
 https://pixeldrain.com/api/file/ZQA7eqG1?download
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7932IizE6kAtIenoPruVLY6m4Ea.jpg",Uncharted
